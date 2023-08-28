@@ -67,9 +67,9 @@ Follow this http://softown.tech/?i=1
 # Login Credentials
 
 ## Developer
-  ID : admin
-  Password : admin
+  -ID : admin
+  -Password : admin
 
-##user
-  ID : adibuy1
-  Password ; Adityama12@
+## User
+  -ID : adibuy1
+  -Password ; Adityama12@
