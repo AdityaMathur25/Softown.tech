@@ -64,4 +64,12 @@ Follow this http://softown.tech/?i=1
     7.Run the script http://localhost/Softown.Tech
 
 
+# Login Credentials
 
+## Developer
+  ID : admin
+  Password : admin
+
+##user
+  ID : adibuy1
+  Password ; Adityama12@
